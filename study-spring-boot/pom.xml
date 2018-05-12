@@ -12,7 +12,6 @@
 		<version>1.5.9.RELEASE</version>
 	</parent>
 
-
 	<name>study-spring-boot</name>
 
 	<properties>
